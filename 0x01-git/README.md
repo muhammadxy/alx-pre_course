@@ -1,2 +1,1 @@
-
-update readme.md
+git pull
